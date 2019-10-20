@@ -1,8 +1,4 @@
 
-# Created by https://www.gitignore.io/api/linux,python,pycharm
-# Edit at https://www.gitignore.io/?templates=linux,python,pycharm
-
-### Linux ###
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
