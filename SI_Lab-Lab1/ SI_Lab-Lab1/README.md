@@ -1,3 +1,3 @@
 # SI_Lab
 Zadania rozwiązywane na potrzeby laboratoriów ze Sztucznej Inteligencji.
-Laboratoria są tworzone na Branchach o nazwach: Lab1, Lab2, Lab3 itd.
+Laboratoria  tworzone w branchach o nazwie lab1, lab2, lab3
